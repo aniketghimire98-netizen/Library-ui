@@ -1,11 +1,3 @@
---[[
-    SOVEREIGN HUB - ADVANCED RESPONSIVE UI (V3)
-    Roblox LuaU interface inspired by the supplied black/red reference.
-    No game automation, teleporting, remote calls, or exploit actions are included.
-
-    Run as a client-side script in an environment where LocalPlayer is available.
-]]
-
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
